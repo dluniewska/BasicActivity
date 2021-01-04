@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BasicActivity</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_delete">Usuń</string>
+    <string name="confirm_message">Item zostanie nieodwracalnie usunięty</string>
+    <string name="confirm_title">Na pewno?</string>
+    <string name="item_added">Item zosta dodany</string>
+    <string name="item_not_added">Nie udało się dodać Itemu</string>
+    <string name="item_not_updated">Nie udało się zaktualizować itemu</string>
+    <string name="item_updated">Item został zaktualizowany</string>
+    <string name="hint_city">Miasto</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_name_required">Nazwa (wymagane)</string>
+    <string name="hint_phone">Numer telefonu</string>
+    <string name="hint_state">Kraj</string>
+    <string name="hint_street">Ulica</string>
+    <string name="hint_zip">Kod Pocztowy</string>
+    <string name="insert_failed">Bląd wstawiania</string>
+    <string name="invalid_delete_uri">Błąd usuwania - identyfikator Uri</string>
+    <string name="invalid_insert_uri">Błąd wstawiania - identyfikator Uri</string>
+    <string name="invalid_query_uri">Błąd zapytania - identyfikator Uri</string>
+    <string name="invalid_update_uri">Błąd aktualizacji - identyfikator Uri</string>
+    <string name="label_city">Miasto:</string>
+    <string name="label_email">E-mail:</string>
+    <string name="label_name">Nazwa:</string>
+    <string name="label_phone">Numer telefonu:</string>
+    <string name="label_state">Kraj:</string>
+    <string name="label_street">Ulica</string>
+    <string name="label_zip">Kod Pocztowy:</string>
+    <string name="menuitem_delete">Usuń</string>
+    <string name="menuitem_edit">Edytuj</string>
+</resources>
